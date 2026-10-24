@@ -1,0 +1,4 @@
+name: Cooldown
+version: 1.0
+main: fr.cooldown.Cooldown
+api-version: "26.3"
